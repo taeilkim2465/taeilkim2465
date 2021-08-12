@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taeil Kim.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data analysis and machine learning.
+- 🌱 I’m currently learning Data analysis and Machine learning.
 - 📫 Reach me kti5589@kaist.ac.kr / kti5589@gmail.com
 
 <!---
